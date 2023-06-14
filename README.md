@@ -1,6 +1,6 @@
 ## FORB: A Flat Object Retrieval Benchmark for Universal Image Embedding
 
-[Pengxiang Wu](https://scholar.google.com/citations?user=MXLs7GcAAAAJ&hl=en), Siman Wang, [Kevin Dela Rosa](https://github.com/kdr), [Derek Hao Hu](https://scholar.google.com/citations?user=Ks81aO0AAAAJ&hl=en)
+[Pengxiang Wu](https://scholar.google.com/citations?user=MXLs7GcAAAAJ&hl=en), [Siman Wang](https://github.com/simanw304), [Kevin Dela Rosa](https://github.com/kdr), [Derek Hao Hu](https://scholar.google.com/citations?user=Ks81aO0AAAAJ&hl=en)
 
 ---
 
