@@ -1,6 +1,6 @@
 ## FORB: A Flat Object Retrieval Benchmark for Universal Image Embedding
 
-[Pengxiang Wu](https://scholar.google.com/citations?user=MXLs7GcAAAAJ&hl=en), [Siman Wang](https://github.com/simanw304), [Kevin Dela Rosa](https://github.com/kdr), [Derek Hao Hu](https://scholar.google.com/citations?user=Ks81aO0AAAAJ&hl=en)
+[Pengxiang Wu](https://scholar.google.com/citations?user=MXLs7GcAAAAJ&hl=en), [Siman Wang](https://github.com/simanw304), [Kevin Dela Rosa](https://perhaps.ai/) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" width="14" height="14">](https://twitter.com/kdrwins) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin-in.svg" width="14" height="14">](https://www.linkedin.com/in/kdrosa/) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="14" height="14">](https://github.com/kdr) [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/graduation-cap.svg" width="14" height="14">](https://scholar.google.com/citations?user=8Pc5MiUAAAAJ&hl=en), [Derek Hao Hu](https://scholar.google.com/citations?user=Ks81aO0AAAAJ&hl=en)
 
 ---
 
