@@ -6,7 +6,7 @@ NeurIPS 2023 Datasets and Benchmarks Track ([Paper Link](https://arxiv.org/abs/2
 
 ---
 
-![](https://github.com/pxiangwu/FORB/blob/master/teaser/images.png)
+![](https://github.com/pxiangwu/FORB/blob/main/teaser/images.png)
 
 We introduce a benchmark for evaluating the retrieval performance on flat objects. Specifically, we consider the following objects:
 
