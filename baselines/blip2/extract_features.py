@@ -52,10 +52,10 @@ def main(object_type: str, data_root_path: str, database_name: str, query: bool,
         print(f'Number of query images: {len(query_image_paths)}')
 
     if database:
-        database_image_list_file = os.path.join(data_root_path, 'metadata', f'{object_type}_database.ndjson')
-        database_image_info = list(map(json.loads, open(database_image_list_file)))
-        database_image_paths = [info['image'] for info in database_image_info]
-        database_image_paths = [os.path.join(data_root_path, l.strip()) for l in database_image_paths]
+        database_image_list_file = os.path.join(data_root_path, 'metadata', f'{database_name}_database_images.txt')
+        with open(database_image_list_file) as fp:
+            database_image_paths = fp.readlines()
+            database_image_paths = [os.path.join(data_root_path, l.strip()) for l in database_image_paths]
         print(f'Number of database images: {len(database_image_paths)}')
 
     # the file names for saved features
