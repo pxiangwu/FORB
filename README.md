@@ -28,4 +28,4 @@ The structure of this repository is:
 - `downloader/`: contains code for downloading the benchmark images.
 - `metric_helper/`: contains some utility functions to help evaluating image retrieval accuracies.
 
-We also offer this [Google Drive Link](https://drive.google.com/file/d/1Oy7wK7khzJhsop3tf7hM1F2V7zrjtAcH/view) for downloading the benchmark data directly.
+We also offer this [Google Drive Link](https://drive.google.com/file/d/1z3JgA22IMjMfh6-5fCZ_Gtz7J3_191HS/view?usp=sharing) for downloading the benchmark data directly.
